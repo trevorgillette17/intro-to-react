@@ -1,0 +1,20 @@
+class Introduction extends React.Component {
+constructor (props) 
+{super(props)
+this.state = {greeting:"Hello"} }
+render() {
+    return (
+      <div>
+	      {this.state.greeting} {this.props.name}
+      </div>
+    );
+  }
+}
+
+ReactDOM.render(
+<div>
+	<Introduction name="Trevor" />
+	<Introduction name="John" />
+</div>,
+  mountNode
+);
