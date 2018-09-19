@@ -1,0 +1,22 @@
+{
+  "name": "react-counter",
+  "version": "1.0.0",
+  "description": "First",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trevorgillette17/intro-to-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Trevor Gillette",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trevorgillette17/intro-to-react/issues"
+  },
+  "homepage": "https://github.com/trevorgillette17/intro-to-react#readme"
+}
